@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("Git真不错！！！");
         System.out.println("git 真不错22222");
         System.out.println("git 真不错hotfix");
+        System.out.println("git 真不错hmaster");
     }
 }
